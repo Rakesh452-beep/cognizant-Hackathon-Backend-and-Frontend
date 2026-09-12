@@ -1,0 +1,401 @@
+document_id,loan_id,applicant_reference,document_type,file_name,verification_status,source,contains_real_pii
+DOC0001_PAYSLIP,1,APPLICANT-0001,Payslip,loan_1/payslip_1.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0001_BANK_STATEMENT,1,APPLICANT-0001,Bank Statement,loan_1/bank_statement_1.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0001_TAX_RETURN,1,APPLICANT-0001,Tax Return,loan_1/tax_return_1.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0001_KYC,1,APPLICANT-0001,KYC,loan_1/kyc_1.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0002_PAYSLIP,2,APPLICANT-0002,Payslip,loan_2/payslip_2.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0002_BANK_STATEMENT,2,APPLICANT-0002,Bank Statement,loan_2/bank_statement_2.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0002_TAX_RETURN,2,APPLICANT-0002,Tax Return,loan_2/tax_return_2.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0002_KYC,2,APPLICANT-0002,KYC,loan_2/kyc_2.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0003_PAYSLIP,3,APPLICANT-0003,Payslip,loan_3/payslip_3.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0003_BANK_STATEMENT,3,APPLICANT-0003,Bank Statement,loan_3/bank_statement_3.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0003_TAX_RETURN,3,APPLICANT-0003,Tax Return,loan_3/tax_return_3.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0003_KYC,3,APPLICANT-0003,KYC,loan_3/kyc_3.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0004_PAYSLIP,4,APPLICANT-0004,Payslip,loan_4/payslip_4.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0004_BANK_STATEMENT,4,APPLICANT-0004,Bank Statement,loan_4/bank_statement_4.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0004_TAX_RETURN,4,APPLICANT-0004,Tax Return,loan_4/tax_return_4.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0004_KYC,4,APPLICANT-0004,KYC,loan_4/kyc_4.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0005_PAYSLIP,5,APPLICANT-0005,Payslip,loan_5/payslip_5.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0005_BANK_STATEMENT,5,APPLICANT-0005,Bank Statement,loan_5/bank_statement_5.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0005_TAX_RETURN,5,APPLICANT-0005,Tax Return,loan_5/tax_return_5.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0005_KYC,5,APPLICANT-0005,KYC,loan_5/kyc_5.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0006_PAYSLIP,6,APPLICANT-0006,Payslip,loan_6/payslip_6.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0006_BANK_STATEMENT,6,APPLICANT-0006,Bank Statement,loan_6/bank_statement_6.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0006_TAX_RETURN,6,APPLICANT-0006,Tax Return,loan_6/tax_return_6.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0006_KYC,6,APPLICANT-0006,KYC,loan_6/kyc_6.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0007_PAYSLIP,7,APPLICANT-0007,Payslip,loan_7/payslip_7.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0007_BANK_STATEMENT,7,APPLICANT-0007,Bank Statement,loan_7/bank_statement_7.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0007_TAX_RETURN,7,APPLICANT-0007,Tax Return,loan_7/tax_return_7.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0007_KYC,7,APPLICANT-0007,KYC,loan_7/kyc_7.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0008_PAYSLIP,8,APPLICANT-0008,Payslip,loan_8/payslip_8.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0008_BANK_STATEMENT,8,APPLICANT-0008,Bank Statement,loan_8/bank_statement_8.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0008_TAX_RETURN,8,APPLICANT-0008,Tax Return,loan_8/tax_return_8.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0008_KYC,8,APPLICANT-0008,KYC,loan_8/kyc_8.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0009_PAYSLIP,9,APPLICANT-0009,Payslip,loan_9/payslip_9.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0009_BANK_STATEMENT,9,APPLICANT-0009,Bank Statement,loan_9/bank_statement_9.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0009_TAX_RETURN,9,APPLICANT-0009,Tax Return,loan_9/tax_return_9.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0009_KYC,9,APPLICANT-0009,KYC,loan_9/kyc_9.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0010_PAYSLIP,10,APPLICANT-0010,Payslip,loan_10/payslip_10.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0010_BANK_STATEMENT,10,APPLICANT-0010,Bank Statement,loan_10/bank_statement_10.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0010_TAX_RETURN,10,APPLICANT-0010,Tax Return,loan_10/tax_return_10.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0010_KYC,10,APPLICANT-0010,KYC,loan_10/kyc_10.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0011_PAYSLIP,11,APPLICANT-0011,Payslip,loan_11/payslip_11.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0011_BANK_STATEMENT,11,APPLICANT-0011,Bank Statement,loan_11/bank_statement_11.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0011_TAX_RETURN,11,APPLICANT-0011,Tax Return,loan_11/tax_return_11.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0011_KYC,11,APPLICANT-0011,KYC,loan_11/kyc_11.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0012_PAYSLIP,12,APPLICANT-0012,Payslip,loan_12/payslip_12.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0012_BANK_STATEMENT,12,APPLICANT-0012,Bank Statement,loan_12/bank_statement_12.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0012_TAX_RETURN,12,APPLICANT-0012,Tax Return,loan_12/tax_return_12.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0012_KYC,12,APPLICANT-0012,KYC,loan_12/kyc_12.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0013_PAYSLIP,13,APPLICANT-0013,Payslip,loan_13/payslip_13.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0013_BANK_STATEMENT,13,APPLICANT-0013,Bank Statement,loan_13/bank_statement_13.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0013_TAX_RETURN,13,APPLICANT-0013,Tax Return,loan_13/tax_return_13.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0013_KYC,13,APPLICANT-0013,KYC,loan_13/kyc_13.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0014_PAYSLIP,14,APPLICANT-0014,Payslip,loan_14/payslip_14.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0014_BANK_STATEMENT,14,APPLICANT-0014,Bank Statement,loan_14/bank_statement_14.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0014_TAX_RETURN,14,APPLICANT-0014,Tax Return,loan_14/tax_return_14.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0014_KYC,14,APPLICANT-0014,KYC,loan_14/kyc_14.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0015_PAYSLIP,15,APPLICANT-0015,Payslip,loan_15/payslip_15.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0015_BANK_STATEMENT,15,APPLICANT-0015,Bank Statement,loan_15/bank_statement_15.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0015_TAX_RETURN,15,APPLICANT-0015,Tax Return,loan_15/tax_return_15.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0015_KYC,15,APPLICANT-0015,KYC,loan_15/kyc_15.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0016_PAYSLIP,16,APPLICANT-0016,Payslip,loan_16/payslip_16.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0016_BANK_STATEMENT,16,APPLICANT-0016,Bank Statement,loan_16/bank_statement_16.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0016_TAX_RETURN,16,APPLICANT-0016,Tax Return,loan_16/tax_return_16.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0016_KYC,16,APPLICANT-0016,KYC,loan_16/kyc_16.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0017_PAYSLIP,17,APPLICANT-0017,Payslip,loan_17/payslip_17.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0017_BANK_STATEMENT,17,APPLICANT-0017,Bank Statement,loan_17/bank_statement_17.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0017_TAX_RETURN,17,APPLICANT-0017,Tax Return,loan_17/tax_return_17.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0017_KYC,17,APPLICANT-0017,KYC,loan_17/kyc_17.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0018_PAYSLIP,18,APPLICANT-0018,Payslip,loan_18/payslip_18.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0018_BANK_STATEMENT,18,APPLICANT-0018,Bank Statement,loan_18/bank_statement_18.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0018_TAX_RETURN,18,APPLICANT-0018,Tax Return,loan_18/tax_return_18.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0018_KYC,18,APPLICANT-0018,KYC,loan_18/kyc_18.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0019_PAYSLIP,19,APPLICANT-0019,Payslip,loan_19/payslip_19.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0019_BANK_STATEMENT,19,APPLICANT-0019,Bank Statement,loan_19/bank_statement_19.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0019_TAX_RETURN,19,APPLICANT-0019,Tax Return,loan_19/tax_return_19.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0019_KYC,19,APPLICANT-0019,KYC,loan_19/kyc_19.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0020_PAYSLIP,20,APPLICANT-0020,Payslip,loan_20/payslip_20.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0020_BANK_STATEMENT,20,APPLICANT-0020,Bank Statement,loan_20/bank_statement_20.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0020_TAX_RETURN,20,APPLICANT-0020,Tax Return,loan_20/tax_return_20.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0020_KYC,20,APPLICANT-0020,KYC,loan_20/kyc_20.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0021_PAYSLIP,21,APPLICANT-0021,Payslip,loan_21/payslip_21.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0021_BANK_STATEMENT,21,APPLICANT-0021,Bank Statement,loan_21/bank_statement_21.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0021_TAX_RETURN,21,APPLICANT-0021,Tax Return,loan_21/tax_return_21.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0021_KYC,21,APPLICANT-0021,KYC,loan_21/kyc_21.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0022_PAYSLIP,22,APPLICANT-0022,Payslip,loan_22/payslip_22.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0022_BANK_STATEMENT,22,APPLICANT-0022,Bank Statement,loan_22/bank_statement_22.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0022_TAX_RETURN,22,APPLICANT-0022,Tax Return,loan_22/tax_return_22.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0022_KYC,22,APPLICANT-0022,KYC,loan_22/kyc_22.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0023_PAYSLIP,23,APPLICANT-0023,Payslip,loan_23/payslip_23.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0023_BANK_STATEMENT,23,APPLICANT-0023,Bank Statement,loan_23/bank_statement_23.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0023_TAX_RETURN,23,APPLICANT-0023,Tax Return,loan_23/tax_return_23.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0023_KYC,23,APPLICANT-0023,KYC,loan_23/kyc_23.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0024_PAYSLIP,24,APPLICANT-0024,Payslip,loan_24/payslip_24.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0024_BANK_STATEMENT,24,APPLICANT-0024,Bank Statement,loan_24/bank_statement_24.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0024_TAX_RETURN,24,APPLICANT-0024,Tax Return,loan_24/tax_return_24.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0024_KYC,24,APPLICANT-0024,KYC,loan_24/kyc_24.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0025_PAYSLIP,25,APPLICANT-0025,Payslip,loan_25/payslip_25.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0025_BANK_STATEMENT,25,APPLICANT-0025,Bank Statement,loan_25/bank_statement_25.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0025_TAX_RETURN,25,APPLICANT-0025,Tax Return,loan_25/tax_return_25.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0025_KYC,25,APPLICANT-0025,KYC,loan_25/kyc_25.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0026_PAYSLIP,26,APPLICANT-0026,Payslip,loan_26/payslip_26.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0026_BANK_STATEMENT,26,APPLICANT-0026,Bank Statement,loan_26/bank_statement_26.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0026_TAX_RETURN,26,APPLICANT-0026,Tax Return,loan_26/tax_return_26.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0026_KYC,26,APPLICANT-0026,KYC,loan_26/kyc_26.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0027_PAYSLIP,27,APPLICANT-0027,Payslip,loan_27/payslip_27.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0027_BANK_STATEMENT,27,APPLICANT-0027,Bank Statement,loan_27/bank_statement_27.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0027_TAX_RETURN,27,APPLICANT-0027,Tax Return,loan_27/tax_return_27.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0027_KYC,27,APPLICANT-0027,KYC,loan_27/kyc_27.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0028_PAYSLIP,28,APPLICANT-0028,Payslip,loan_28/payslip_28.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0028_BANK_STATEMENT,28,APPLICANT-0028,Bank Statement,loan_28/bank_statement_28.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0028_TAX_RETURN,28,APPLICANT-0028,Tax Return,loan_28/tax_return_28.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0028_KYC,28,APPLICANT-0028,KYC,loan_28/kyc_28.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0029_PAYSLIP,29,APPLICANT-0029,Payslip,loan_29/payslip_29.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0029_BANK_STATEMENT,29,APPLICANT-0029,Bank Statement,loan_29/bank_statement_29.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0029_TAX_RETURN,29,APPLICANT-0029,Tax Return,loan_29/tax_return_29.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0029_KYC,29,APPLICANT-0029,KYC,loan_29/kyc_29.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0030_PAYSLIP,30,APPLICANT-0030,Payslip,loan_30/payslip_30.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0030_BANK_STATEMENT,30,APPLICANT-0030,Bank Statement,loan_30/bank_statement_30.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0030_TAX_RETURN,30,APPLICANT-0030,Tax Return,loan_30/tax_return_30.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0030_KYC,30,APPLICANT-0030,KYC,loan_30/kyc_30.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0031_PAYSLIP,31,APPLICANT-0031,Payslip,loan_31/payslip_31.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0031_BANK_STATEMENT,31,APPLICANT-0031,Bank Statement,loan_31/bank_statement_31.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0031_TAX_RETURN,31,APPLICANT-0031,Tax Return,loan_31/tax_return_31.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0031_KYC,31,APPLICANT-0031,KYC,loan_31/kyc_31.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0032_PAYSLIP,32,APPLICANT-0032,Payslip,loan_32/payslip_32.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0032_BANK_STATEMENT,32,APPLICANT-0032,Bank Statement,loan_32/bank_statement_32.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0032_TAX_RETURN,32,APPLICANT-0032,Tax Return,loan_32/tax_return_32.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0032_KYC,32,APPLICANT-0032,KYC,loan_32/kyc_32.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0033_PAYSLIP,33,APPLICANT-0033,Payslip,loan_33/payslip_33.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0033_BANK_STATEMENT,33,APPLICANT-0033,Bank Statement,loan_33/bank_statement_33.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0033_TAX_RETURN,33,APPLICANT-0033,Tax Return,loan_33/tax_return_33.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0033_KYC,33,APPLICANT-0033,KYC,loan_33/kyc_33.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0034_PAYSLIP,34,APPLICANT-0034,Payslip,loan_34/payslip_34.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0034_BANK_STATEMENT,34,APPLICANT-0034,Bank Statement,loan_34/bank_statement_34.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0034_TAX_RETURN,34,APPLICANT-0034,Tax Return,loan_34/tax_return_34.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0034_KYC,34,APPLICANT-0034,KYC,loan_34/kyc_34.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0035_PAYSLIP,35,APPLICANT-0035,Payslip,loan_35/payslip_35.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0035_BANK_STATEMENT,35,APPLICANT-0035,Bank Statement,loan_35/bank_statement_35.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0035_TAX_RETURN,35,APPLICANT-0035,Tax Return,loan_35/tax_return_35.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0035_KYC,35,APPLICANT-0035,KYC,loan_35/kyc_35.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0036_PAYSLIP,36,APPLICANT-0036,Payslip,loan_36/payslip_36.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0036_BANK_STATEMENT,36,APPLICANT-0036,Bank Statement,loan_36/bank_statement_36.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0036_TAX_RETURN,36,APPLICANT-0036,Tax Return,loan_36/tax_return_36.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0036_KYC,36,APPLICANT-0036,KYC,loan_36/kyc_36.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0037_PAYSLIP,37,APPLICANT-0037,Payslip,loan_37/payslip_37.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0037_BANK_STATEMENT,37,APPLICANT-0037,Bank Statement,loan_37/bank_statement_37.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0037_TAX_RETURN,37,APPLICANT-0037,Tax Return,loan_37/tax_return_37.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0037_KYC,37,APPLICANT-0037,KYC,loan_37/kyc_37.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0038_PAYSLIP,38,APPLICANT-0038,Payslip,loan_38/payslip_38.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0038_BANK_STATEMENT,38,APPLICANT-0038,Bank Statement,loan_38/bank_statement_38.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0038_TAX_RETURN,38,APPLICANT-0038,Tax Return,loan_38/tax_return_38.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0038_KYC,38,APPLICANT-0038,KYC,loan_38/kyc_38.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0039_PAYSLIP,39,APPLICANT-0039,Payslip,loan_39/payslip_39.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0039_BANK_STATEMENT,39,APPLICANT-0039,Bank Statement,loan_39/bank_statement_39.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0039_TAX_RETURN,39,APPLICANT-0039,Tax Return,loan_39/tax_return_39.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0039_KYC,39,APPLICANT-0039,KYC,loan_39/kyc_39.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0040_PAYSLIP,40,APPLICANT-0040,Payslip,loan_40/payslip_40.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0040_BANK_STATEMENT,40,APPLICANT-0040,Bank Statement,loan_40/bank_statement_40.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0040_TAX_RETURN,40,APPLICANT-0040,Tax Return,loan_40/tax_return_40.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0040_KYC,40,APPLICANT-0040,KYC,loan_40/kyc_40.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0041_PAYSLIP,41,APPLICANT-0041,Payslip,loan_41/payslip_41.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0041_BANK_STATEMENT,41,APPLICANT-0041,Bank Statement,loan_41/bank_statement_41.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0041_TAX_RETURN,41,APPLICANT-0041,Tax Return,loan_41/tax_return_41.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0041_KYC,41,APPLICANT-0041,KYC,loan_41/kyc_41.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0042_PAYSLIP,42,APPLICANT-0042,Payslip,loan_42/payslip_42.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0042_BANK_STATEMENT,42,APPLICANT-0042,Bank Statement,loan_42/bank_statement_42.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0042_TAX_RETURN,42,APPLICANT-0042,Tax Return,loan_42/tax_return_42.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0042_KYC,42,APPLICANT-0042,KYC,loan_42/kyc_42.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0043_PAYSLIP,43,APPLICANT-0043,Payslip,loan_43/payslip_43.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0043_BANK_STATEMENT,43,APPLICANT-0043,Bank Statement,loan_43/bank_statement_43.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0043_TAX_RETURN,43,APPLICANT-0043,Tax Return,loan_43/tax_return_43.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0043_KYC,43,APPLICANT-0043,KYC,loan_43/kyc_43.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0044_PAYSLIP,44,APPLICANT-0044,Payslip,loan_44/payslip_44.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0044_BANK_STATEMENT,44,APPLICANT-0044,Bank Statement,loan_44/bank_statement_44.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0044_TAX_RETURN,44,APPLICANT-0044,Tax Return,loan_44/tax_return_44.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0044_KYC,44,APPLICANT-0044,KYC,loan_44/kyc_44.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0045_PAYSLIP,45,APPLICANT-0045,Payslip,loan_45/payslip_45.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0045_BANK_STATEMENT,45,APPLICANT-0045,Bank Statement,loan_45/bank_statement_45.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0045_TAX_RETURN,45,APPLICANT-0045,Tax Return,loan_45/tax_return_45.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0045_KYC,45,APPLICANT-0045,KYC,loan_45/kyc_45.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0046_PAYSLIP,46,APPLICANT-0046,Payslip,loan_46/payslip_46.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0046_BANK_STATEMENT,46,APPLICANT-0046,Bank Statement,loan_46/bank_statement_46.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0046_TAX_RETURN,46,APPLICANT-0046,Tax Return,loan_46/tax_return_46.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0046_KYC,46,APPLICANT-0046,KYC,loan_46/kyc_46.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0047_PAYSLIP,47,APPLICANT-0047,Payslip,loan_47/payslip_47.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0047_BANK_STATEMENT,47,APPLICANT-0047,Bank Statement,loan_47/bank_statement_47.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0047_TAX_RETURN,47,APPLICANT-0047,Tax Return,loan_47/tax_return_47.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0047_KYC,47,APPLICANT-0047,KYC,loan_47/kyc_47.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0048_PAYSLIP,48,APPLICANT-0048,Payslip,loan_48/payslip_48.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0048_BANK_STATEMENT,48,APPLICANT-0048,Bank Statement,loan_48/bank_statement_48.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0048_TAX_RETURN,48,APPLICANT-0048,Tax Return,loan_48/tax_return_48.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0048_KYC,48,APPLICANT-0048,KYC,loan_48/kyc_48.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0049_PAYSLIP,49,APPLICANT-0049,Payslip,loan_49/payslip_49.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0049_BANK_STATEMENT,49,APPLICANT-0049,Bank Statement,loan_49/bank_statement_49.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0049_TAX_RETURN,49,APPLICANT-0049,Tax Return,loan_49/tax_return_49.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0049_KYC,49,APPLICANT-0049,KYC,loan_49/kyc_49.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0050_PAYSLIP,50,APPLICANT-0050,Payslip,loan_50/payslip_50.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0050_BANK_STATEMENT,50,APPLICANT-0050,Bank Statement,loan_50/bank_statement_50.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0050_TAX_RETURN,50,APPLICANT-0050,Tax Return,loan_50/tax_return_50.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0050_KYC,50,APPLICANT-0050,KYC,loan_50/kyc_50.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0051_PAYSLIP,51,APPLICANT-0051,Payslip,loan_51/payslip_51.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0051_BANK_STATEMENT,51,APPLICANT-0051,Bank Statement,loan_51/bank_statement_51.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0051_TAX_RETURN,51,APPLICANT-0051,Tax Return,loan_51/tax_return_51.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0051_KYC,51,APPLICANT-0051,KYC,loan_51/kyc_51.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0052_PAYSLIP,52,APPLICANT-0052,Payslip,loan_52/payslip_52.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0052_BANK_STATEMENT,52,APPLICANT-0052,Bank Statement,loan_52/bank_statement_52.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0052_TAX_RETURN,52,APPLICANT-0052,Tax Return,loan_52/tax_return_52.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0052_KYC,52,APPLICANT-0052,KYC,loan_52/kyc_52.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0053_PAYSLIP,53,APPLICANT-0053,Payslip,loan_53/payslip_53.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0053_BANK_STATEMENT,53,APPLICANT-0053,Bank Statement,loan_53/bank_statement_53.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0053_TAX_RETURN,53,APPLICANT-0053,Tax Return,loan_53/tax_return_53.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0053_KYC,53,APPLICANT-0053,KYC,loan_53/kyc_53.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0054_PAYSLIP,54,APPLICANT-0054,Payslip,loan_54/payslip_54.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0054_BANK_STATEMENT,54,APPLICANT-0054,Bank Statement,loan_54/bank_statement_54.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0054_TAX_RETURN,54,APPLICANT-0054,Tax Return,loan_54/tax_return_54.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0054_KYC,54,APPLICANT-0054,KYC,loan_54/kyc_54.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0055_PAYSLIP,55,APPLICANT-0055,Payslip,loan_55/payslip_55.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0055_BANK_STATEMENT,55,APPLICANT-0055,Bank Statement,loan_55/bank_statement_55.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0055_TAX_RETURN,55,APPLICANT-0055,Tax Return,loan_55/tax_return_55.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0055_KYC,55,APPLICANT-0055,KYC,loan_55/kyc_55.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0056_PAYSLIP,56,APPLICANT-0056,Payslip,loan_56/payslip_56.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0056_BANK_STATEMENT,56,APPLICANT-0056,Bank Statement,loan_56/bank_statement_56.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0056_TAX_RETURN,56,APPLICANT-0056,Tax Return,loan_56/tax_return_56.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0056_KYC,56,APPLICANT-0056,KYC,loan_56/kyc_56.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0057_PAYSLIP,57,APPLICANT-0057,Payslip,loan_57/payslip_57.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0057_BANK_STATEMENT,57,APPLICANT-0057,Bank Statement,loan_57/bank_statement_57.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0057_TAX_RETURN,57,APPLICANT-0057,Tax Return,loan_57/tax_return_57.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0057_KYC,57,APPLICANT-0057,KYC,loan_57/kyc_57.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0058_PAYSLIP,58,APPLICANT-0058,Payslip,loan_58/payslip_58.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0058_BANK_STATEMENT,58,APPLICANT-0058,Bank Statement,loan_58/bank_statement_58.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0058_TAX_RETURN,58,APPLICANT-0058,Tax Return,loan_58/tax_return_58.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0058_KYC,58,APPLICANT-0058,KYC,loan_58/kyc_58.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0059_PAYSLIP,59,APPLICANT-0059,Payslip,loan_59/payslip_59.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0059_BANK_STATEMENT,59,APPLICANT-0059,Bank Statement,loan_59/bank_statement_59.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0059_TAX_RETURN,59,APPLICANT-0059,Tax Return,loan_59/tax_return_59.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0059_KYC,59,APPLICANT-0059,KYC,loan_59/kyc_59.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0060_PAYSLIP,60,APPLICANT-0060,Payslip,loan_60/payslip_60.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0060_BANK_STATEMENT,60,APPLICANT-0060,Bank Statement,loan_60/bank_statement_60.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0060_TAX_RETURN,60,APPLICANT-0060,Tax Return,loan_60/tax_return_60.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0060_KYC,60,APPLICANT-0060,KYC,loan_60/kyc_60.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0061_PAYSLIP,61,APPLICANT-0061,Payslip,loan_61/payslip_61.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0061_BANK_STATEMENT,61,APPLICANT-0061,Bank Statement,loan_61/bank_statement_61.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0061_TAX_RETURN,61,APPLICANT-0061,Tax Return,loan_61/tax_return_61.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0061_KYC,61,APPLICANT-0061,KYC,loan_61/kyc_61.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0062_PAYSLIP,62,APPLICANT-0062,Payslip,loan_62/payslip_62.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0062_BANK_STATEMENT,62,APPLICANT-0062,Bank Statement,loan_62/bank_statement_62.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0062_TAX_RETURN,62,APPLICANT-0062,Tax Return,loan_62/tax_return_62.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0062_KYC,62,APPLICANT-0062,KYC,loan_62/kyc_62.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0063_PAYSLIP,63,APPLICANT-0063,Payslip,loan_63/payslip_63.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0063_BANK_STATEMENT,63,APPLICANT-0063,Bank Statement,loan_63/bank_statement_63.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0063_TAX_RETURN,63,APPLICANT-0063,Tax Return,loan_63/tax_return_63.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0063_KYC,63,APPLICANT-0063,KYC,loan_63/kyc_63.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0064_PAYSLIP,64,APPLICANT-0064,Payslip,loan_64/payslip_64.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0064_BANK_STATEMENT,64,APPLICANT-0064,Bank Statement,loan_64/bank_statement_64.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0064_TAX_RETURN,64,APPLICANT-0064,Tax Return,loan_64/tax_return_64.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0064_KYC,64,APPLICANT-0064,KYC,loan_64/kyc_64.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0065_PAYSLIP,65,APPLICANT-0065,Payslip,loan_65/payslip_65.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0065_BANK_STATEMENT,65,APPLICANT-0065,Bank Statement,loan_65/bank_statement_65.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0065_TAX_RETURN,65,APPLICANT-0065,Tax Return,loan_65/tax_return_65.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0065_KYC,65,APPLICANT-0065,KYC,loan_65/kyc_65.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0066_PAYSLIP,66,APPLICANT-0066,Payslip,loan_66/payslip_66.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0066_BANK_STATEMENT,66,APPLICANT-0066,Bank Statement,loan_66/bank_statement_66.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0066_TAX_RETURN,66,APPLICANT-0066,Tax Return,loan_66/tax_return_66.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0066_KYC,66,APPLICANT-0066,KYC,loan_66/kyc_66.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0067_PAYSLIP,67,APPLICANT-0067,Payslip,loan_67/payslip_67.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0067_BANK_STATEMENT,67,APPLICANT-0067,Bank Statement,loan_67/bank_statement_67.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0067_TAX_RETURN,67,APPLICANT-0067,Tax Return,loan_67/tax_return_67.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0067_KYC,67,APPLICANT-0067,KYC,loan_67/kyc_67.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0068_PAYSLIP,68,APPLICANT-0068,Payslip,loan_68/payslip_68.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0068_BANK_STATEMENT,68,APPLICANT-0068,Bank Statement,loan_68/bank_statement_68.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0068_TAX_RETURN,68,APPLICANT-0068,Tax Return,loan_68/tax_return_68.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0068_KYC,68,APPLICANT-0068,KYC,loan_68/kyc_68.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0069_PAYSLIP,69,APPLICANT-0069,Payslip,loan_69/payslip_69.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0069_BANK_STATEMENT,69,APPLICANT-0069,Bank Statement,loan_69/bank_statement_69.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0069_TAX_RETURN,69,APPLICANT-0069,Tax Return,loan_69/tax_return_69.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0069_KYC,69,APPLICANT-0069,KYC,loan_69/kyc_69.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0070_PAYSLIP,70,APPLICANT-0070,Payslip,loan_70/payslip_70.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0070_BANK_STATEMENT,70,APPLICANT-0070,Bank Statement,loan_70/bank_statement_70.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0070_TAX_RETURN,70,APPLICANT-0070,Tax Return,loan_70/tax_return_70.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0070_KYC,70,APPLICANT-0070,KYC,loan_70/kyc_70.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0071_PAYSLIP,71,APPLICANT-0071,Payslip,loan_71/payslip_71.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0071_BANK_STATEMENT,71,APPLICANT-0071,Bank Statement,loan_71/bank_statement_71.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0071_TAX_RETURN,71,APPLICANT-0071,Tax Return,loan_71/tax_return_71.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0071_KYC,71,APPLICANT-0071,KYC,loan_71/kyc_71.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0072_PAYSLIP,72,APPLICANT-0072,Payslip,loan_72/payslip_72.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0072_BANK_STATEMENT,72,APPLICANT-0072,Bank Statement,loan_72/bank_statement_72.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0072_TAX_RETURN,72,APPLICANT-0072,Tax Return,loan_72/tax_return_72.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0072_KYC,72,APPLICANT-0072,KYC,loan_72/kyc_72.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0073_PAYSLIP,73,APPLICANT-0073,Payslip,loan_73/payslip_73.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0073_BANK_STATEMENT,73,APPLICANT-0073,Bank Statement,loan_73/bank_statement_73.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0073_TAX_RETURN,73,APPLICANT-0073,Tax Return,loan_73/tax_return_73.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0073_KYC,73,APPLICANT-0073,KYC,loan_73/kyc_73.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0074_PAYSLIP,74,APPLICANT-0074,Payslip,loan_74/payslip_74.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0074_BANK_STATEMENT,74,APPLICANT-0074,Bank Statement,loan_74/bank_statement_74.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0074_TAX_RETURN,74,APPLICANT-0074,Tax Return,loan_74/tax_return_74.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0074_KYC,74,APPLICANT-0074,KYC,loan_74/kyc_74.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0075_PAYSLIP,75,APPLICANT-0075,Payslip,loan_75/payslip_75.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0075_BANK_STATEMENT,75,APPLICANT-0075,Bank Statement,loan_75/bank_statement_75.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0075_TAX_RETURN,75,APPLICANT-0075,Tax Return,loan_75/tax_return_75.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0075_KYC,75,APPLICANT-0075,KYC,loan_75/kyc_75.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0076_PAYSLIP,76,APPLICANT-0076,Payslip,loan_76/payslip_76.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0076_BANK_STATEMENT,76,APPLICANT-0076,Bank Statement,loan_76/bank_statement_76.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0076_TAX_RETURN,76,APPLICANT-0076,Tax Return,loan_76/tax_return_76.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0076_KYC,76,APPLICANT-0076,KYC,loan_76/kyc_76.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0077_PAYSLIP,77,APPLICANT-0077,Payslip,loan_77/payslip_77.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0077_BANK_STATEMENT,77,APPLICANT-0077,Bank Statement,loan_77/bank_statement_77.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0077_TAX_RETURN,77,APPLICANT-0077,Tax Return,loan_77/tax_return_77.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0077_KYC,77,APPLICANT-0077,KYC,loan_77/kyc_77.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0078_PAYSLIP,78,APPLICANT-0078,Payslip,loan_78/payslip_78.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0078_BANK_STATEMENT,78,APPLICANT-0078,Bank Statement,loan_78/bank_statement_78.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0078_TAX_RETURN,78,APPLICANT-0078,Tax Return,loan_78/tax_return_78.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0078_KYC,78,APPLICANT-0078,KYC,loan_78/kyc_78.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0079_PAYSLIP,79,APPLICANT-0079,Payslip,loan_79/payslip_79.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0079_BANK_STATEMENT,79,APPLICANT-0079,Bank Statement,loan_79/bank_statement_79.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0079_TAX_RETURN,79,APPLICANT-0079,Tax Return,loan_79/tax_return_79.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0079_KYC,79,APPLICANT-0079,KYC,loan_79/kyc_79.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0080_PAYSLIP,80,APPLICANT-0080,Payslip,loan_80/payslip_80.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0080_BANK_STATEMENT,80,APPLICANT-0080,Bank Statement,loan_80/bank_statement_80.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0080_TAX_RETURN,80,APPLICANT-0080,Tax Return,loan_80/tax_return_80.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0080_KYC,80,APPLICANT-0080,KYC,loan_80/kyc_80.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0081_PAYSLIP,81,APPLICANT-0081,Payslip,loan_81/payslip_81.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0081_BANK_STATEMENT,81,APPLICANT-0081,Bank Statement,loan_81/bank_statement_81.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0081_TAX_RETURN,81,APPLICANT-0081,Tax Return,loan_81/tax_return_81.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0081_KYC,81,APPLICANT-0081,KYC,loan_81/kyc_81.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0082_PAYSLIP,82,APPLICANT-0082,Payslip,loan_82/payslip_82.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0082_BANK_STATEMENT,82,APPLICANT-0082,Bank Statement,loan_82/bank_statement_82.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0082_TAX_RETURN,82,APPLICANT-0082,Tax Return,loan_82/tax_return_82.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0082_KYC,82,APPLICANT-0082,KYC,loan_82/kyc_82.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0083_PAYSLIP,83,APPLICANT-0083,Payslip,loan_83/payslip_83.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0083_BANK_STATEMENT,83,APPLICANT-0083,Bank Statement,loan_83/bank_statement_83.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0083_TAX_RETURN,83,APPLICANT-0083,Tax Return,loan_83/tax_return_83.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0083_KYC,83,APPLICANT-0083,KYC,loan_83/kyc_83.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0084_PAYSLIP,84,APPLICANT-0084,Payslip,loan_84/payslip_84.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0084_BANK_STATEMENT,84,APPLICANT-0084,Bank Statement,loan_84/bank_statement_84.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0084_TAX_RETURN,84,APPLICANT-0084,Tax Return,loan_84/tax_return_84.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0084_KYC,84,APPLICANT-0084,KYC,loan_84/kyc_84.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0085_PAYSLIP,85,APPLICANT-0085,Payslip,loan_85/payslip_85.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0085_BANK_STATEMENT,85,APPLICANT-0085,Bank Statement,loan_85/bank_statement_85.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0085_TAX_RETURN,85,APPLICANT-0085,Tax Return,loan_85/tax_return_85.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0085_KYC,85,APPLICANT-0085,KYC,loan_85/kyc_85.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0086_PAYSLIP,86,APPLICANT-0086,Payslip,loan_86/payslip_86.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0086_BANK_STATEMENT,86,APPLICANT-0086,Bank Statement,loan_86/bank_statement_86.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0086_TAX_RETURN,86,APPLICANT-0086,Tax Return,loan_86/tax_return_86.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0086_KYC,86,APPLICANT-0086,KYC,loan_86/kyc_86.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0087_PAYSLIP,87,APPLICANT-0087,Payslip,loan_87/payslip_87.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0087_BANK_STATEMENT,87,APPLICANT-0087,Bank Statement,loan_87/bank_statement_87.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0087_TAX_RETURN,87,APPLICANT-0087,Tax Return,loan_87/tax_return_87.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0087_KYC,87,APPLICANT-0087,KYC,loan_87/kyc_87.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0088_PAYSLIP,88,APPLICANT-0088,Payslip,loan_88/payslip_88.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0088_BANK_STATEMENT,88,APPLICANT-0088,Bank Statement,loan_88/bank_statement_88.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0088_TAX_RETURN,88,APPLICANT-0088,Tax Return,loan_88/tax_return_88.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0088_KYC,88,APPLICANT-0088,KYC,loan_88/kyc_88.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0089_PAYSLIP,89,APPLICANT-0089,Payslip,loan_89/payslip_89.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0089_BANK_STATEMENT,89,APPLICANT-0089,Bank Statement,loan_89/bank_statement_89.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0089_TAX_RETURN,89,APPLICANT-0089,Tax Return,loan_89/tax_return_89.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0089_KYC,89,APPLICANT-0089,KYC,loan_89/kyc_89.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0090_PAYSLIP,90,APPLICANT-0090,Payslip,loan_90/payslip_90.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0090_BANK_STATEMENT,90,APPLICANT-0090,Bank Statement,loan_90/bank_statement_90.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0090_TAX_RETURN,90,APPLICANT-0090,Tax Return,loan_90/tax_return_90.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0090_KYC,90,APPLICANT-0090,KYC,loan_90/kyc_90.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0091_PAYSLIP,91,APPLICANT-0091,Payslip,loan_91/payslip_91.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0091_BANK_STATEMENT,91,APPLICANT-0091,Bank Statement,loan_91/bank_statement_91.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0091_TAX_RETURN,91,APPLICANT-0091,Tax Return,loan_91/tax_return_91.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0091_KYC,91,APPLICANT-0091,KYC,loan_91/kyc_91.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0092_PAYSLIP,92,APPLICANT-0092,Payslip,loan_92/payslip_92.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0092_BANK_STATEMENT,92,APPLICANT-0092,Bank Statement,loan_92/bank_statement_92.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0092_TAX_RETURN,92,APPLICANT-0092,Tax Return,loan_92/tax_return_92.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0092_KYC,92,APPLICANT-0092,KYC,loan_92/kyc_92.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0093_PAYSLIP,93,APPLICANT-0093,Payslip,loan_93/payslip_93.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0093_BANK_STATEMENT,93,APPLICANT-0093,Bank Statement,loan_93/bank_statement_93.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0093_TAX_RETURN,93,APPLICANT-0093,Tax Return,loan_93/tax_return_93.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0093_KYC,93,APPLICANT-0093,KYC,loan_93/kyc_93.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0094_PAYSLIP,94,APPLICANT-0094,Payslip,loan_94/payslip_94.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0094_BANK_STATEMENT,94,APPLICANT-0094,Bank Statement,loan_94/bank_statement_94.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0094_TAX_RETURN,94,APPLICANT-0094,Tax Return,loan_94/tax_return_94.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0094_KYC,94,APPLICANT-0094,KYC,loan_94/kyc_94.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0095_PAYSLIP,95,APPLICANT-0095,Payslip,loan_95/payslip_95.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0095_BANK_STATEMENT,95,APPLICANT-0095,Bank Statement,loan_95/bank_statement_95.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0095_TAX_RETURN,95,APPLICANT-0095,Tax Return,loan_95/tax_return_95.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0095_KYC,95,APPLICANT-0095,KYC,loan_95/kyc_95.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0096_PAYSLIP,96,APPLICANT-0096,Payslip,loan_96/payslip_96.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0096_BANK_STATEMENT,96,APPLICANT-0096,Bank Statement,loan_96/bank_statement_96.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0096_TAX_RETURN,96,APPLICANT-0096,Tax Return,loan_96/tax_return_96.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0096_KYC,96,APPLICANT-0096,KYC,loan_96/kyc_96.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0097_PAYSLIP,97,APPLICANT-0097,Payslip,loan_97/payslip_97.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0097_BANK_STATEMENT,97,APPLICANT-0097,Bank Statement,loan_97/bank_statement_97.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0097_TAX_RETURN,97,APPLICANT-0097,Tax Return,loan_97/tax_return_97.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0097_KYC,97,APPLICANT-0097,KYC,loan_97/kyc_97.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0098_PAYSLIP,98,APPLICANT-0098,Payslip,loan_98/payslip_98.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0098_BANK_STATEMENT,98,APPLICANT-0098,Bank Statement,loan_98/bank_statement_98.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0098_TAX_RETURN,98,APPLICANT-0098,Tax Return,loan_98/tax_return_98.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0098_KYC,98,APPLICANT-0098,KYC,loan_98/kyc_98.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0099_PAYSLIP,99,APPLICANT-0099,Payslip,loan_99/payslip_99.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0099_BANK_STATEMENT,99,APPLICANT-0099,Bank Statement,loan_99/bank_statement_99.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0099_TAX_RETURN,99,APPLICANT-0099,Tax Return,loan_99/tax_return_99.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0099_KYC,99,APPLICANT-0099,KYC,loan_99/kyc_99.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0100_PAYSLIP,100,APPLICANT-0100,Payslip,loan_100/payslip_100.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0100_BANK_STATEMENT,100,APPLICANT-0100,Bank Statement,loan_100/bank_statement_100.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0100_TAX_RETURN,100,APPLICANT-0100,Tax Return,loan_100/tax_return_100.pdf,Synthetic - Not Verified,Generated synthetic test document,False
+DOC0100_KYC,100,APPLICANT-0100,KYC,loan_100/kyc_100.pdf,Synthetic - Not Verified,Generated synthetic test document,False

@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Frontend
+node_modules/
+dist/
+build/
+.vite/
+
+# Logs and local tooling
+*.log
+.DS_Store
+.vscode/
