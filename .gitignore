@@ -22,3 +22,6 @@ build/
 *.log
 .DS_Store
 .vscode/
+
+# Preserve nested repository metadata outside the root commit
+frontend/.git_nested_backup/
